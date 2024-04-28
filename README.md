@@ -1,10 +1,6 @@
 
 # 💫 About Me:
-- Self-learner, 
-- motivated,
-- focused, and hard-worker.
-
-    I believe in quality instead quantity.<br>Tech and problem solving enthusiast.
+Hello! I'm a self-learner who is motivated, focused, and dedicated to hard work. I prioritize quality over quantity in everything I do and have a passion for technology and problem-solving. Feel free to explore my repositories and projects!
   
 
 
