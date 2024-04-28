@@ -1,7 +1,7 @@
 
 # 💫 About Me:
-Hello! I'm a self-learner, motivated, focused, and dedicated to hard work.
-I prioritize quality over quantity in everything I do and have a passion for technology and problem-solving. 
+Hello! I'm a self-learner, motivated, focused, and dedicated to hard work. <br>
+I prioritize quality over quantity in everything I do and have a passion for technology and problem-solving. <br>
 Feel free to explore my repositories and projects!
   
 
